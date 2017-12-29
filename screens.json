@@ -1,0 +1,16 @@
+{
+  "pages": {
+    "Screens": [
+      "SplashScreen",
+      "ShoppingItemListScreen",
+      "InvoiceScreen",
+      "CheckoutScreen"
+    ]
+  },
+  "artboards": [
+    "SplashScreen",
+    "ShoppingItemListScreen",
+    "InvoiceScreen",
+    "CheckoutScreen"
+  ]
+}
