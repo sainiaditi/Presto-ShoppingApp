@@ -4,6 +4,8 @@ An app to demo the use of [Juspay's Presto framework](https://github.com/juspay/
 
 ## Getting Started
 
-,,,
+```
+
 $ npm start
-,,,
+
+```
