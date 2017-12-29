@@ -8,7 +8,7 @@ bower i
 npm i
 npm start
 ```
-open http://localhost:8080 in your browser
+Open http://localhost:8080 in your browser
 
 ## Add Presto to your existing project
 ```
