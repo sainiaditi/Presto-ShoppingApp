@@ -1,7 +1,16 @@
 # Presto-ShoppingApp
-An app to demo the use of [Juspay's Presto framework](https://github.com/juspay/purescript-presto)
+An app to demonstrate the use of [Juspay's Presto framework](https://github.com/juspay/purescript-presto)
 
 ## Getting Started
 ```
-$ npm start
+git clone https://github.com/sainiaditi/Presto-ShoppingApp.git
+bower i
+npm i
+npm start
+```
+open http://localhost:8080 in your browser
+
+## Add Presto to your existing project
+```
+bower i purescript-presto
 ```
