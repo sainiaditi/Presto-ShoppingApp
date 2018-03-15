@@ -15,3 +15,5 @@ Open http://localhost:8080 in your browser
 ```
 bower i purescript-presto
 ```
+## Preview
+![Alt Text](shoppingAppGif.gif)
