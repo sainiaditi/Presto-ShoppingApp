@@ -1,5 +1,5 @@
 # Presto-ShoppingApp
-An app to demonstrate the use of [Juspay's Presto framework](https://github.com/juspay/purescript-presto)
+One-week web e-commerce App using [Presto-UI](https://github.com/juspay/purescript-presto) and Purescript. Presto is a Purescript library that allows user to handle screen transition (flows), API calls, state management etc. in frontend. 
 
 ## Getting Started
 ```
