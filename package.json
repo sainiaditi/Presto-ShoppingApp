@@ -7,7 +7,7 @@
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --content-base dist/"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": ">=0.18.1",
     "source-map": "^0.5.6",
     "presto-ui": "^0.2.0"
   },
